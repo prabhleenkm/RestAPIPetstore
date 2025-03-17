@@ -1,0 +1,6 @@
+[INFO ] 2025-03-16 20:12:16.127 [main] PetStoreRestAssured - Created user executed
+[INFO ] 2025-03-16 20:12:17.222 [main] PetStoreRestAssured - get user executed
+[INFO ] 2025-03-16 20:12:19.362 [main] PetStoreRestAssured - update user executed
+[INFO ] 2025-03-16 20:12:20.419 [main] PetStoreRestAssured - delete user executed
+[INFO ] 2025-03-17 11:23:33.592 [main] PetStoreRestAssured - Created user executed
+[INFO ] 2025-03-17 11:23:37.307 [main] PetStoreRestAssured - delete user executed
